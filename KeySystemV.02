@@ -1,0 +1,8 @@
+_G.Key = "Wdqwqf$vPXtknm@WfZ%!UDx2VzQlA!*I8mjiT4xmFQf^z97RWt" ------ Your Key
+if _G.Key == "Wdqwqf$vPXtknm@WfZ%!UDx2VzQlA!*I8mjiT4xmFQf^z97RWt" then ---- Checking Key is Correct -----
+print("Key Correct! (Wdqwqf$vPXtknm@WfZ%!UDx2VzQlA!*I8mjiT4xmFQf^z97RWt)") ------ Printing Key + Correct Key ------
+---- Script here -----
+wait(1)
+else
+    print("Wrong Key Please Try Again!") ------ Wrong Key Print ----
+end
